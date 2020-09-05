@@ -16,7 +16,7 @@
 title: हाईफन टेक
 email: anish@hyphen.host
 description: >- # this means to ignore newlines until "baseurl:"
-  यो साईट नियमित अध्यावधी नभएको पनि हुन सक्छ । आफुलाई जानेका कुरा अरुलाई पनि सुनाम भन्ने मुड चलेको दिन मात्र नयाँ पोष्ट हालिन्छ । धैर्या गर्नुहोला । 
+  यो साईट नियमित अध्यावधी नभएको पनि हुन सक्छ । आफुलाई जानेका कुरा अरुलाई पनि सुनाम भन्ने मुड चलेको दिन मात्र नयाँ पोष्ट हालिन्छ । धैर्य गर्नुहोला । 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hyphenab
@@ -28,6 +28,11 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%a, %B %d, %Y"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
