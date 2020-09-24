@@ -28,4 +28,4 @@ date:   2020-09-09 00:00:00 +0545
 
 कुनै बेला एसईओ स्ट्रङ्ग बनाउन मेटाट्याग ठिक हुन पर्छ भनिन्थ्यो । अहिले सोसल मिडियामा साईट शेयर गर्नको लागी मेटा ट्याग ठिक हुन पर्छ भन्न थालिइको छ । हुन पनि फेसबुक मा शेयर गर्नको लागी छुट्टै खालको मेटा ट्याग प्रपर्टि डिफाईन गर्न पर्छ भने ट्वीटरमा राम्रो सँग शेयर गर्नको लागी छुट्टै खालको मेटा ट्याग डिफाईन गर्न पर्दछ । गुगलको लागी गर्न पर्ने काम त छदैछ । 
 
-| उदारण : [मेटा ट्याग्स](https://metatags.io/) , [ट्वीटर मेटाट्याग टेस्टीङ्ग टुल्स](https://search.google.com/structured-data/testing-tool/) , [ट्वीटर कार्ड भ्यालिडेटर](https://cards-dev.twitter.com/validator) , [फेसबुक मेटाट्याग डिबगर](https://developers.facebook.com/tools/debug/) |
+| उदारण : [मेटा ट्याग्स](https://metatags.io/) , [गुगल मेटाट्याग टेस्टीङ्ग टुल्स](https://search.google.com/structured-data/testing-tool/) , [ट्वीटर कार्ड भ्यालिडेटर](https://cards-dev.twitter.com/validator) , [फेसबुक मेटाट्याग डिबगर](https://developers.facebook.com/tools/debug/) |
