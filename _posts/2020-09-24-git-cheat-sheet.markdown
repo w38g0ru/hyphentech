@@ -3,6 +3,7 @@ layout: post
 title:  "गिट चिट सीट"
 date:   2020-09-24 00:00:00 +0545
 ---
+### गिट सेटअप (कन्फीगर)
 ```
 git config --global user.name “[firstname lastname]”
 ```
@@ -11,6 +12,8 @@ git config --global user.name “[firstname lastname]”
 git config --global user.email “[valid-email]”
 ```
 कुन युजरले गिट कमिट एड गर्छ त्यसको लग राख्नको लागी उसको ईमेल सेट गरिन्छ । 
+
+### गिट ईनिसियलाजेशन 
 ```
 git init
 ```
@@ -19,6 +22,9 @@ git init
 git clone [url]
 ```
 गिट सर्भरमा रहेको आफ्नो लोकल कम्प्युटरमा सार्नको लागी क्लोन गरिन्छ ।
+
+### निरिक्षण र तुलना (INSPECT & COMPARE)
+
 ```
 git log
 ```
