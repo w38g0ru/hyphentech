@@ -1,4 +1,8 @@
---- layout: post title: "बेव डेभलपरहरुको लागी अत्यावश्यक वेबसाईटहरु" date: 2020-09-09 00:00:00 +0545 ---
+---
+layout: post
+title:  "बेव डेभलपरहरुको लागी अत्यावश्यक वेबसाईटहरु"
+date:   2020-09-09 00:00:00 +0545
+---
 
 # क्लाउड बेष्ड आईडि
 
@@ -12,14 +16,16 @@
 
 > प्रो टिप्स : इन्टरनेटमा भेटिने सबै कोड ब्युटीफायरहरुले सही तरिकाले काम गर्छ भन्ने ग्यारेन्टी छैन त्यसैले आफूले लेखेको कोड ब्युटी फाई गर्नु अगाडी त्यसको ब्याक अप लिन नबिर्सनु होला र ब्युटी फाई गरी सकेपछि पनि त्यो कोडले ब्युटी फाई गर्नु अगाडिको जस्तो काम गर्छ गर्दैन निर्क्योल गर्नु होला ।
 
-उदारंण , [फ्रिफरम्याटर](https://www.freeformatter.com/) | [कन्ट्रोलक्यु ब्युटीफायर](https://ctrlq.org/beautifier/) | [पिएचपी फर्म्याटर](http://www.phpformatter.com/) |
+उदारण :  [फ्रिफरम्याटर](https://www.freeformatter.com/) , [कन्ट्रोलक्यु ब्युटीफायर](https://ctrlq.org/beautifier/) , [पिएचपी फर्म्याटर](http://www.phpformatter.com/) |
 
 # कलर कम्बीनेशन
 
-[कम्प्लीमेन्ट्री कलर्स](https://en.wikipedia.org/wiki/Complementary_colors) , [स्पिल्ट कम्प्लीमेन्ट्री कलर्स](https://en.wikipedia.org/wiki/Complementary_colors) , [एनालोगस कलर्स](https://en.wikipedia.org/wiki/Complementary_colors) , [ट्रियाडिक कलर्स](https://en.wikipedia.org/wiki/Complementary_colors) , [डबल कम्प्लीमेन्ट्री कलर्स](https://en.wikipedia.org/wiki/Complementary_colors) आदी कलर कम्बीनेशनको रुल्स हुने रहेछ । यि रुलहरु चाँही मुलत: कुनै एक कलर रोज्ने हो भने त्यस कलर सँग मिल्ने अरु कलरहरु कुन कुन हुन सक्छन भनेर सैदान्तिक रुपमा रोजिएको कलर देखाई दिने रहेछन । कुनै एक कलर रोजेर त्यो सँग मिल्ने अरु कलर कुन कुन हुन सक्छन भनेर भन्नु सबैको बसको कुरा हुन्न । यस्तोमा अनलाई टुल्सहरुको प्रयोग गर्न सकिन्छ ।
+[कम्प्लीमेन्ट्री कलर्स](https://en.wikipedia.org/wiki/Complementary_colors) , [स्पिल्ट कम्प्लीमेन्ट्री कलर्स](https://en.wikipedia.org/wiki/Color_scheme#Split-Complementary) , [एनालोगस कलर्स](https://en.wikipedia.org/wiki/Color_scheme#Analogous) , [ट्रियाडिक कलर्स](https://en.wikipedia.org/wiki/Color_scheme#Triadic) , डबल कम्प्लीमेन्ट्री कलर्स आदी कलर कम्बीनेशनको रुल्स हुने रहेछ । यि रुलहरु चाँही मुलत: कुनै एक कलर रोज्ने हो भने त्यस कलर सँग मिल्ने अरु कलरहरु कुन कुन हुन सक्छन भनेर सैदान्तिक रुपमा रोजिएको कलर देखाई दिने रहेछन । कुनै एक कलर रोजेर त्यो सँग मिल्ने अरु कलर कुन कुन हुन सक्छन भनेर भन्नु सबैको बसको कुरा हुन्न । यस्तोमा अनलाई टुल्सहरुको प्रयोग गर्न सकिन्छ ।
 
-उदारण , [कलर्स लभर्स](https://en.wikipedia.org/wiki/Complementary_colors) , [एडोबि कलर्स](https://color.adobe.com/create/color-wheel)
+उदारण : [कलर्स लभर्स](https://en.wikipedia.org/wiki/Complementary_colors) , [एडोबि कलर्स](https://color.adobe.com/create/color-wheel)
 
 # मेटाट्याग
 
-कुनै बेला एसईओ स्ट्रङ्ग बनाउन मेटाट्याग ठिक हुन पर्छ भनिन्थ्यो । अहिले सोसल मिडियामा साईट शेयर गर्नको लागी मेटा ट्याग ठिक हुन पर्छ भन्न थालिइको छ । हुन पनि फेसबुक मा शेयर गर्नको लागी छुट्टै खालको मेटा ट्याग प्रपर्टि डिफाईन गर्न पर्छ भने ट्वीटरमा राम्रो सँग शेयर गर्नको लागी छुट्टै खालको मेटा ट्याग डिफाईन गर्न पर्दछ । गुगलको लागी गर्न पर्ने काम त छदैछ । आजभोली वेबसाईट शेयर गर्दा हेर्न मिल्ने बनाउनको लागी पनि मेहनत गर्न पर्छ । `<title>Meta Tags — Preview, Edit and Generate</title> <meta name="title" content="Meta Tags — Preview, Edit and Generate"> <meta name="description" content="With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!">  <meta property="og:type" content="website"> <meta property="og:url" content="https://metatags.io/"> <meta property="og:title" content="Meta Tags — Preview, Edit and Generate"> <meta property="og:description" content="With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!"> <meta property="og:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png">  <meta property="twitter:card" content="summary_large_image"> <meta property="twitter:url" content="https://metatags.io/"> <meta property="twitter:title" content="Meta Tags — Preview, Edit and Generate"> <meta property="twitter:description" content="With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!"> <meta property="twitter:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png"> ` # मेटाट्याग [मेटाट्याग](https://metatags.io/)
+कुनै बेला एसईओ स्ट्रङ्ग बनाउन मेटाट्याग ठिक हुन पर्छ भनिन्थ्यो । अहिले सोसल मिडियामा साईट शेयर गर्नको लागी मेटा ट्याग ठिक हुन पर्छ भन्न थालिइको छ । हुन पनि फेसबुक मा शेयर गर्नको लागी छुट्टै खालको मेटा ट्याग प्रपर्टि डिफाईन गर्न पर्छ भने ट्वीटरमा राम्रो सँग शेयर गर्नको लागी छुट्टै खालको मेटा ट्याग डिफाईन गर्न पर्दछ । गुगलको लागी गर्न पर्ने काम त छदैछ । आजभोली वेबसाईट शेयर गर्दा हेर्न मिल्ने बनाउनको लागी पनि मेहनत गर्न पर्छ । 
+
+उदारण : [मेटा ट्याग्स](https://metatags.io/) , [ट्वीटर मेटाट्याग टेस्टीङ्ग टुल्स](https://search.google.com/structured-data/testing-tool/) , [ट्वीटर कार्ड भ्यालिडेटर](https://cards-dev.twitter.com/validator) , [फेसबुक मेटाट्याग डिबगर](https://developers.facebook.com/tools/debug/)
