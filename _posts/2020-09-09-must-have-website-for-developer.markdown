@@ -22,7 +22,7 @@ date:   2020-09-09 00:00:00 +0545
 
 [कम्प्लीमेन्ट्री कलर्स](https://en.wikipedia.org/wiki/Complementary_colors) , [स्पिल्ट कम्प्लीमेन्ट्री कलर्स](https://en.wikipedia.org/wiki/Color_scheme#Split-Complementary) , [एनालोगस कलर्स](https://en.wikipedia.org/wiki/Color_scheme#Analogous) , [ट्रियाडिक कलर्स](https://en.wikipedia.org/wiki/Color_scheme#Triadic) , डबल कम्प्लीमेन्ट्री कलर्स आदी कलर कम्बीनेशनको रुल्स हुने रहेछ । यि रुलहरु चाँही मुलत: कुनै एक कलर रोज्ने हो भने त्यस कलर सँग मिल्ने अरु कलरहरु कुन कुन हुन सक्छन भनेर सैदान्तिक रुपमा रोजिएको कलर देखाई दिने रहेछन । कुनै एक कलर रोजेर त्यो सँग मिल्ने अरु कलर कुन कुन हुन सक्छन भनेर भन्नु सबैको बसको कुरा हुन्न । यस्तोमा अनलाई टुल्सहरुको प्रयोग गर्न सकिन्छ ।
 
-| उदारण : [कलर्स लभर्स](https://en.wikipedia.org/wiki/Complementary_colors) , [एडोबि कलर्स](https://color.adobe.com/create/color-wheel) |
+| उदारण : [कलर्स लभर्स](https://en.wikipedia.org/wiki/Complementary_colors) , [एडोबि कलर्स](https://color.adobe.com/create/color-wheel) , [कलर्स डट को](https://coolors.co/) , [कलरहन्ट](https://colorhunt.co/) , [प्लेटन](https://paletton.com/) , [कलर्स हेक्स](https://color-hex.com/) , [माई कलर डट स्पेस](https://mycolor.space/) |
 
 # मेटाट्याग
 
