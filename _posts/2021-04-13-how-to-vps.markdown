@@ -76,3 +76,10 @@ PHP को बृहत् प्रयोग गर्नको लागी �
     CustomLog ${APACHE_LOG_DIR}/access.log combined
 </VirtualHost>
 </pre>
+
+<pre>sudo a2ensite your_domain</pre>
+<pre>sudo a2dissite 000-default</pre>
+<pre>sudo apache2ctl configtest</pre>
+<pre>sudo systemctl reload apache2
+</pre>
+<pre></pre>
